@@ -1,0 +1,1 @@
+1. feladat, amit meg kell csinálni. git pull helyett git fetch
